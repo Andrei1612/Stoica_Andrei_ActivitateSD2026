@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Stoica_Andrei_ActivitateSD2026/Stoica_Andrei_ActivitateSD2026.vcxproj" Id="d5331754-6973-4cec-827b-fc87fda83bfd" />
+</Solution>
